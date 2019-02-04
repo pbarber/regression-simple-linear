@@ -39,6 +39,6 @@
     "rollup-plugin-babel": "^4.3.2"
   },
   "dependencies": {
-    "ml-regression-base": "^1.0.0"
+    "ml-regression-base": "git://github.com:pbarber/regression-base.git#es5-build"
   }
 }
